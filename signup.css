@@ -1,0 +1,15 @@
+ .form-container {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+  }
+  .form-group {
+    margin-bottom: 20px;
+  }
+  .btn-send-otp {
+    margin-top: 10px;
+  }
+  .btn-block{
+    width: 100%;
+  }
